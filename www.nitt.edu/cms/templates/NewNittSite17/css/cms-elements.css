@@ -1,0 +1,16 @@
+div#cms-actionbarModule {
+	float: left;
+}
+div#cms-actionbarPage {
+	float: right;
+}
+.cms-actionbarModuleItem, .cms-actionbarPageItem {
+	padding: 10px;
+}
+#action-bar {
+	height: 50px !important;
+}
+span.cms-actionbarPageItem img {
+	max-height: 20px;
+	max-width: 20px;
+}
